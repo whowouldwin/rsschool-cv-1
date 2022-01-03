@@ -24,6 +24,28 @@ I'm willing to work diligently to meet the needs of the company and to become a 
   return a * b
 };
 ```
+### Work experience ###
+
++ **GitHub:** <https://github.com/whowouldwin/MarketPeak_blog>
+
++ Sales Manager 
+  1C 8.3 platform(ERP).
+  Posting documents across multiple registers.
+
++ SoftBel
+  Developed on the 1C 8.3 platform(ERP).
+  Task Management.
+  
+
+### Education and course ###
++ The Rolling Scopes (JavaScript);
++ uncompleted Master's degree in Computer Engineering;
++ Faculty of Computer Engeneering, BSUIR (programming mobile system);
++ Belarusian State Academy Aviation (computer operator).
+  
+
+### Language ###
+English level - A2
 
 
 
