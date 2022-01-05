@@ -3,16 +3,21 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  list-style: none;
+  /* list-style: square; */
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 ul {
     color: #0f0f0f;
+    list-style:square;
 }
 
 li {
     margin-bottom: 1rem;
+}
+
+ol {
+    list-style: none;
 }
 
 .data {
@@ -23,13 +28,14 @@ body {
   background: #fcfcfd;
   font-size: 14px;
   line-height: 22px;
-  color: #555555;
+  color: #000000;
 }
 
 .bold {
   font-weight: 700;
   font-size: 20px;
   text-transform: uppercase;
+  color: #020202;
 }
 
 .semi-bold {
@@ -51,17 +57,6 @@ body {
   display: flex;
   margin: 5px auto;
 }
-
-footer {
-  width: 800px;
-  height: 50px;
-  display: flex;
-  background-color: rgb(210, 221, 221);
-  color: white;
-  margin: 5px auto;
-  padding-left: 25px;
-}
-
 .resume .resume_left {
   width: 280px;
   background: #626566;
@@ -147,22 +142,65 @@ footer {
   overflow: hidden;
 }
 
-footer a {
+ a {
     color: rgb(5, 4, 4);
-    width: 50px;
     margin: 10px;
 }
-footer p {
-    font-size: 14px;
-    width: 50px;
-    margin: 10px;  
-    color: #020202; 
+
+nav ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#626566;
 }
+
+nav ol li {
+    float: left;
+    margin-right: 1em;
+    margin-left: 1em;
+    padding-top: 9px;
+    font-size: large ;
+    
+}
+nav ol li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+nav ol li a:hover {
+    background-color: #626566;
+}
+
+footer {
+    display: flex;
+    background-color: white;
+    color: white;
+    margin: 5px auto;
+    padding-left: 25px;
+  }
+footer a {
+    display: block;
+    color: rgb(3, 3, 3);
+    text-align: center;
+    text-decoration: none;  
+}
+
 footer a img { 
     display: flex;
-    width: 40px;
-    height: 100%;
+    width: 70px;
+    /* height: 100%; */
     color: white;
+    align-content:center;
+}
+
+.y {
+    color: black;
+    align-content: flex-end;
+    padding-top: 10px;
+    padding-left: 533px;
 }
 
 
