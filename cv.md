@@ -1,3 +1,5 @@
+
+
 ## Valeria Bessonova ##
 
 <img src="Images/icon.jpg" width="100"/>
@@ -19,10 +21,26 @@ I'm willing to work diligently to meet the needs of the company and to become a 
 + training of system user;
 + Git.
 
-### Code examples ###
-```function multiply(a, b){
-  return a * b
-};
+### Code examples 🐱 ###
+```
+  // program to loop through an object using for...in loop
+
+  const student = { 
+      name: 'Lera,
+      age: 28,
+      hobbies: ['reading', 'games', 'coding'],
+  };
+
+  // using for...in
+  for (let key in RSstudent) { 
+      let value;
+
+      // get the value
+      value = student[key];
+
+      console.log(key + " - " +  value); 
+  } 
+
 ```
 ### Work experience ###
 
