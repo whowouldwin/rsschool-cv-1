@@ -1,208 +1,240 @@
 
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  /* list-style: square; */
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-ul {
-    color: #0f0f0f;
-    list-style:square;
-}
-
-li {
-    margin-bottom: 1rem;
-}
-
-ol {
-    list-style: none;
-}
-
-.data {
-    color: #f7f2f2;
-}
-
-body {
-  background: #fcfcfd;
-  font-size: 14px;
-  line-height: 22px;
-  color: #000000;
-}
-
-.bold {
-  font-weight: 700;
-  font-size: 20px;
-  text-transform: uppercase;
-  color: #020202;
-}
-
-.semi-bold {
-  font-weight: 500;
-  font-size: 16px;
-}
-
-.main{
-    display: flex;
-    flex-direction: column;
-    min-height: 100%;
-    width: 800px;
-    margin: 50px auto;
-}
-
-.resume {
-  width: 800px;
-  height: auto;
-  display: flex;
-  margin: 5px auto;
-}
-.resume .resume_left {
-  width: 280px;
-  background: #626566;
-}
-
-.resume .resume_left .resume_profile {
-  width: 100%;
-  height: 280px;
-}
-
-.resume .resume_left .resume_profile img {
-  width: 100%;
-  height: 100%;
-}
-
-.resume .resume_left .resume_content {
-  padding: 0 25px;
-}
-
-.resume .title {
-  margin-bottom: 20px;
-}
-
-.resume .resume_left .bold {
-  color: #fff;
-}
-
-.resume .resume_item {
-  padding: 25px 0;
-  border-bottom: 2px solid #020202;
-}
-
-.resume .resume_left .resume_skills ul li {
-  display: flex;
-  margin-bottom: 10px;
-  color: #f7f0f0;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.resume .resume_left .resume_skills ul li .skill_name {
-  width: 25%;
-}
-
-.resume .resume_left .resume_skills ul li .skill_progress {
-  width: 60%;
-  margin: 0 5px;
-  height: 5px;
-  background: #080808;
-  position: relative;
-}
-
-.resume .resume_left .resume_skills ul li .skill_per {
-  width: 20%;
-}
-
-.resume .resume_left .resume_skills ul li .skill_progress span {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  background: #fff;
-}
-
-.resume .resume_left .resume_social .semi-bold {
-  color: #fff;
-  margin-bottom: 3px;
-}
-
-.resume .resume_right {
-  width: 520px;
-  background: #fff;
-  padding: 25px;
-}
-
-.resume .resume_right .bold {
-  color: #050505;
-}
-
-.resume .resume_right .resume_work ul,
-.resume .resume_right .resume_education ul {
-  padding-left: 40px;
-  overflow: hidden;
-}
-
- a {
-    color: rgb(5, 4, 4);
-    margin: 10px;
-}
-
-nav ol {
-    list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
-    background-color:#626566;
+    box-sizing: border-box;
+    font-family: "PoppinsLight", sans-serif;
+    list-style: none;
 }
-
-nav ol li {
-    float: left;
-    margin-right: 1em;
-    margin-left: 1em;
-    padding-top: 9px;
-    font-size: large ;
-    
-}
-nav ol li a {
-    display: block;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-}
-
-nav ol li a:hover {
-    background-color: #626566;
-}
-
-footer {
+.resume {
+    width: 800px;
+    margin: 25px auto;
     display: flex;
-    background-color: white;
-    color: white;
-    margin: 5px auto;
-    padding-left: 25px;
-  }
-footer a {
-    display: block;
-    color: rgb(3, 3, 3);
-    text-align: center;
-    text-decoration: none;  
+
+}
+.img_profile {
+    width: 120px;
 }
 
-footer a img { 
-    display: flex;
-    width: 70px;
-    /* height: 100%; */
-    color: white;
-    align-content:center;
-}
+/*ul {*/
+/*    color: #0f0f0f;*/
+/*    list-style:square;*/
+/*}*/
 
-.y {
-    color: black;
-    align-content: flex-end;
-    padding-top: 10px;
-    padding-left: 533px;
-}
+/*li {*/
+/*    margin-bottom: 1rem;*/
+/*}*/
 
+/*ol {*/
+/*    list-style: none;*/
+/*}*/
+
+/*.data {*/
+/*    color: #f7f2f2;*/
+/*}*/
+
+/*body {*/
+/*  background: #fcfcfd;*/
+/*  font-size: 14px;*/
+/*  line-height: 22px;*/
+/*  color: #000000;*/
+/*}*/
+
+/*.bold {*/
+/*  font-weight: 700;*/
+/*  font-size: 20px;*/
+/*  text-transform: uppercase;*/
+/*  color: #020202;*/
+/*}*/
+
+/*.semi-bold {*/
+/*  font-weight: 500;*/
+/*  font-size: 16px;*/
+/*}*/
+
+/*.main{*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    min-height: 100%;*/
+/*    width: 800px;*/
+/*    margin: 50px auto;*/
+/*}*/
+
+/*.resume {*/
+/*  width: 800px;*/
+/*  height: auto;*/
+/*  display: flex;*/
+/*  margin: 5px auto;*/
+/*}*/
+/*.resume .resume_left {*/
+/*  width: 280px;*/
+/*  background: #626566;*/
+/*}*/
+
+/*.resume .resume_left .resume_profile {*/
+/*  width: 100%;*/
+/*  height: 280px;*/
+/*}*/
+
+/*.resume .resume_left .resume_profile img {*/
+/*  width: 100%;*/
+/*  height: 100%;*/
+/*}*/
+
+/*.resume .resume_left .resume_content {*/
+/*  padding: 0 25px;*/
+/*}*/
+
+/*.resume .title {*/
+/*  margin-bottom: 20px;*/
+/*}*/
+
+/*.resume .resume_left .bold {*/
+/*  color: #fff;*/
+/*}*/
+
+/*.resume .resume_item {*/
+/*  padding: 25px 0;*/
+/*  border-bottom: 2px solid #020202;*/
+/*}*/
+
+/*.resume .resume_left .resume_skills ul li {*/
+/*  display: flex;*/
+/*  margin-bottom: 10px;*/
+/*  color: #f7f0f0;*/
+/*  justify-content: space-between;*/
+/*  align-items: center;*/
+/*}*/
+
+/*.resume .resume_left .resume_skills ul li .skill_name {*/
+/*  width: 25%;*/
+/*}*/
+
+/*.resume .resume_left .resume_skills ul li .skill_progress {*/
+/*  width: 60%;*/
+/*  margin: 0 5px;*/
+/*  height: 5px;*/
+/*  background: #080808;*/
+/*  position: relative;*/
+/*}*/
+
+/*.resume .resume_left .resume_skills ul li .skill_per {*/
+/*  width: 20%;*/
+/*}*/
+
+/*.resume .resume_left .resume_skills ul li .skill_progress span {*/
+/*  position: absolute;*/
+/*  top: 0;*/
+/*  left: 0;*/
+/*  height: 100%;*/
+/*  background: #fff;*/
+/*}*/
+
+/*.resume .resume_left .resume_social .semi-bold {*/
+/*  color: #fff;*/
+/*  margin-bottom: 3px;*/
+/*}*/
+
+/*.resume .resume_right {*/
+/*  width: 520px;*/
+/*  background: #fff;*/
+/*  padding: 25px;*/
+/*}*/
+
+/*.resume .resume_right .bold {*/
+/*  color: #050505;*/
+/*}*/
+
+/*.resume .resume_right .resume_work ul,*/
+/*.resume .resume_right .resume_education ul {*/
+/*  padding-left: 40px;*/
+/*  overflow: hidden;*/
+/*}*/
+
+/* a {*/
+/*    color: rgb(5, 4, 4);*/
+/*    margin: 10px;*/
+/*}*/
+
+/*nav ol {*/
+/*    list-style-type: none;*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*    overflow: hidden;*/
+/*    background-color:#626566;*/
+/*}*/
+
+/*nav ol li {*/
+/*    float: left;*/
+/*    margin-right: 1em;*/
+/*    margin-left: 1em;*/
+/*    padding-top: 9px;*/
+/*    font-size: large ;*/
+/*    */
+/*}*/
+/*nav ol li a {*/
+/*    display: block;*/
+/*    color: white;*/
+/*    text-align: center;*/
+/*    text-decoration: none;*/
+/*}*/
+
+/*nav ol li a:hover {*/
+/*    background-color: #626566;*/
+/*}*/
+
+/*footer {*/
+/*    display: flex;*/
+/*    background-color: white;*/
+/*    color: white;*/
+/*    margin: 5px auto;*/
+/*    padding-left: 25px;*/
+/*  }*/
+/*footer a {*/
+/*    display: block;*/
+/*    color: rgb(3, 3, 3);*/
+/*    text-align: center;*/
+/*    text-decoration: none;  */
+/*}*/
+
+/*footer a img { */
+/*    display: flex;*/
+/*    width: 70px;*/
+/*    !* height: 100%; *!*/
+/*    color: white;*/
+/*    align-content:center;*/
+/*}*/
+
+/*.y {*/
+/*    color: black;*/
+/*    align-content: flex-end;*/
+/*    padding-top: 10px;*/
+/*    padding-left: 533px;*/
+/*}*/
+@font-face {
+    font-family: "PoppinsLight";
+    src: url("../fonts/Poppins-Light.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "PoppinsMedium";
+    src: url("../fonts/Poppins-Medium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "PoppinsRegular";
+    src: url("../fonts/Poppins-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "PoppinsSemiBold";
+    src: url("../fonts/Poppins-SemiBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
 
 
 

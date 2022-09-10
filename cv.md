@@ -2,7 +2,7 @@
 
 ## Valeria Bessonova ##
 
-<img src="Images/icon.jpg" width="100"/>
+<img src="Images/profile.jpg" width="100"/>
 
 ### My contact info
 + **Phone:** +375257929518
