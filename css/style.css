@@ -74,6 +74,27 @@
     width: calc(100% - 50px);
     word-break: break-word;
 }
+.skills ul,
+.other ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.skills .li_wrap,
+.other .li_wrap {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.skills img,
+.other img{
+    height: 60px;
+}
 .right {
     width: calc(100% - 250px);
 }

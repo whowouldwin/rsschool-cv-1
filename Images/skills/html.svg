@@ -1,131 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:url(#SVGID_2_);}
-	.st2{fill:url(#SVGID_3_);}
-	.st3{fill:url(#SVGID_4_);}
-	.st4{fill:url(#SVGID_5_);}
-	.st5{fill:url(#SVGID_6_);}
-	.st6{fill:url(#SVGID_7_);}
-	.st7{fill:url(#SVGID_8_);}
-	.st8{fill:url(#SVGID_9_);}
-	.st9{fill:url(#SVGID_10_);}
-	.st10{fill:url(#SVGID_11_);}
-	.st11{fill:url(#SVGID_12_);}
-	.st12{fill:url(#SVGID_13_);}
-	.st13{fill:url(#SVGID_14_);}
-	.st14{fill:url(#SVGID_15_);}
-	.st15{fill:url(#SVGID_16_);}
-	.st16{fill:url(#SVGID_17_);}
-	.st17{fill:url(#SVGID_18_);}
-	.st18{fill:url(#SVGID_19_);}
-	.st19{fill:url(#SVGID_20_);}
-	.st20{fill:url(#SVGID_21_);}
-	.st21{fill:url(#SVGID_22_);}
-	.st22{fill:url(#SVGID_23_);}
-	.st23{fill:url(#SVGID_24_);}
-	.st24{fill:url(#SVGID_25_);}
-	.st25{fill:url(#SVGID_26_);}
-	.st26{fill:url(#SVGID_27_);}
-	.st27{fill:url(#SVGID_28_);}
-	.st28{fill:url(#SVGID_29_);}
-	.st29{fill:url(#SVGID_30_);}
-	.st30{fill:url(#SVGID_31_);}
-	.st31{fill:url(#SVGID_32_);}
-	.st32{fill:url(#SVGID_33_);}
-	.st33{fill:url(#SVGID_34_);}
-	.st34{fill:url(#SVGID_35_);}
-	.st35{fill:url(#SVGID_36_);}
-	.st36{fill:url(#SVGID_37_);}
-	.st37{fill:url(#SVGID_38_);}
-	.st38{fill:url(#SVGID_39_);}
-	.st39{fill:url(#SVGID_40_);}
-	.st40{fill:url(#SVGID_41_);}
-	.st41{fill:url(#SVGID_42_);}
-	.st42{fill:url(#SVGID_43_);}
-	.st43{fill:url(#SVGID_44_);}
-	.st44{fill:url(#SVGID_45_);}
-	.st45{fill:url(#SVGID_46_);}
-	.st46{fill:url(#SVGID_47_);}
-	.st47{fill:url(#SVGID_48_);}
-	.st48{fill:url(#SVGID_49_);}
-	.st49{fill:url(#SVGID_50_);}
-	.st50{fill:url(#SVGID_51_);}
-	.st51{fill:url(#SVGID_52_);}
-	.st52{fill:url(#SVGID_53_);}
-	.st53{fill:url(#SVGID_54_);}
-	.st54{fill:url(#SVGID_55_);}
-	.st55{fill:url(#SVGID_56_);}
-	.st56{fill:url(#SVGID_57_);}
-	.st57{fill:url(#SVGID_58_);}
-	.st58{fill:url(#SVGID_59_);}
-	.st59{fill:url(#SVGID_60_);}
-	.st60{fill:url(#SVGID_61_);}
-	.st61{fill:url(#SVGID_62_);}
-	.st62{fill:url(#SVGID_63_);}
-	.st63{fill:url(#SVGID_64_);}
-	.st64{fill:url(#SVGID_65_);}
-	.st65{fill:url(#SVGID_66_);}
-	.st66{fill:url(#SVGID_67_);}
-	.st67{fill:url(#SVGID_68_);}
-	.st68{fill:url(#SVGID_69_);}
-	.st69{fill:url(#SVGID_70_);}
-	.st70{fill:url(#SVGID_71_);}
-	.st71{fill:url(#SVGID_72_);}
-	.st72{fill:url(#SVGID_73_);}
-	.st73{fill:url(#SVGID_74_);}
-	.st74{fill:url(#SVGID_75_);}
-	.st75{fill:url(#SVGID_76_);}
-	.st76{fill:url(#SVGID_77_);}
-	.st77{fill:url(#SVGID_78_);}
-	.st78{fill:url(#SVGID_79_);}
-	.st79{fill:url(#SVGID_80_);}
-	.st80{fill:url(#SVGID_81_);}
-	.st81{fill:url(#SVGID_82_);}
-	.st82{fill:url(#SVGID_83_);}
-	.st83{fill:url(#SVGID_84_);}
-	.st84{fill:url(#SVGID_85_);}
-	.st85{fill:url(#SVGID_86_);}
-	.st86{fill:url(#SVGID_87_);}
-	.st87{fill:url(#SVGID_88_);}
-	.st88{fill:url(#SVGID_89_);}
-	.st89{fill:url(#SVGID_90_);}
-	.st90{fill:url(#SVGID_91_);}
-	.st91{fill:url(#SVGID_92_);}
-	.st92{fill:url(#SVGID_93_);}
-	.st93{fill:url(#SVGID_94_);}
-	.st94{fill:url(#SVGID_95_);}
-	.st95{fill:url(#SVGID_96_);}
-	.st96{fill:url(#SVGID_97_);}
-	.st97{fill:url(#SVGID_98_);}
-	.st98{fill:url(#SVGID_99_);}
-	.st99{fill:url(#SVGID_100_);}
-	.st100{fill:url(#SVGID_101_);}
-	.st101{fill:url(#SVGID_102_);}
-	.st102{fill:url(#SVGID_103_);}
-	.st103{fill:url(#SVGID_104_);}
-	.st104{fill:url(#SVGID_105_);}
-	.st105{fill:url(#SVGID_106_);}
-	.st106{fill:url(#SVGID_107_);}
-	.st107{fill:url(#SVGID_108_);}
-	.st108{fill:url(#SVGID_109_);}
-	.st109{fill:url(#SVGID_110_);}
-	.st110{fill:url(#SVGID_111_);}
-	.st111{fill:url(#SVGID_112_);}
-	.st112{fill:url(#SVGID_113_);}
-	.st113{fill:url(#SVGID_114_);}
-</style>
+	 viewBox="0 0 299.215 299.215" style="enable-background:new 0 0 299.215 299.215;" xml:space="preserve">
+<g id="XMLID_106_">
+	<path id="XMLID_107_" d="M22.347,0c-2.75,0-4.799,2.241-4.555,4.98l23.184,260.047c0.244,2.739,2.611,5.582,5.262,6.318
+		l98.381,27.316c2.65,0.736,6.986,0.736,9.637,0.002l98.68-27.361c2.65-0.735,5.02-3.578,5.264-6.316L281.422,4.98
+		c0.246-2.739-1.805-4.98-4.555-4.98H22.347z M232.049,59.641c-0.219,2.443-0.598,6.684-0.842,9.423l-0.611,6.823
+		c-0.246,2.738-0.596,6.654-0.781,8.701c-0.184,2.048-0.359,3.723-0.391,3.723c-0.031,0-2.307,0-5.057,0h-69.76
+		c-2.75,0-5.023,0-5.053,0s-2.305,0-5.055,0h-36.74c-2.75,0-4.799,2.241-4.555,4.98l2.143,23.955c0.244,2.738,2.695,4.98,5.445,4.98
+		H144.5c2.75,0,5.025,0,5.055,0s2.303,0,5.053,0h57.939c2.75,0,7.006,0,9.457,0c2.449,0,4.273,1.999,4.051,4.442
+		c-0.223,2.443-0.604,6.685-0.848,9.423l-6.891,77.228c-0.246,2.739-0.557,6.238-0.691,7.776c-0.137,1.537-2.416,3.396-5.066,4.131
+		l-58.133,16.119c-2.65,0.734-4.852,1.342-4.893,1.351c-0.041,0.009-2.242-0.586-4.893-1.321l-58.195-16.148
+		c-2.65-0.735-5.018-3.578-5.262-6.317l-3.746-42.045c-0.244-2.739,1.807-4.98,4.557-4.98h5.311c2.75,0,7.25,0,10,0h7.92
+		c2.75,0,5.199,2.241,5.445,4.98l1.469,16.459c0.244,2.739,2.615,5.566,5.271,6.283l27.221,7.351
+		c2.654,0.717,4.836,1.304,4.848,1.304s2.193-0.588,4.848-1.305l27.27-7.369c2.654-0.717,5.027-3.545,5.273-6.283l2.957-32.976
+		c0.246-2.739-1.803-4.98-4.553-4.98h-30.666c-2.75,0-5.023,0-5.053,0s-2.305,0-5.055,0H80.511c-2.75,0-5.199-2.242-5.443-4.98
+		l-7.256-81.306c-0.244-2.739-0.623-6.979-0.842-9.423c-0.217-2.443,1.854-4.442,4.604-4.442H144.5c2.75,0,5.025,0,5.055,0
+		s2.303,0,5.053,0h72.838C230.195,55.198,232.267,57.197,232.049,59.641z"/>
+</g>
 <g>
-	<g>
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="3.1048" y1="12.7578" x2="19.9712" y2="12.7578">
-			<stop  offset="0" style="stop-color:#1245C6"/>
-			<stop  offset="1" style="stop-color:#9909B7"/>
-		</linearGradient>
-		<path class="st0" d="M3.1,3.2l1.5,17.2l6.9,1.9l6.9-1.9L20,3.2H3.1z M16.6,8.8H8.6L8.7,11h7.7l-0.6,6.5l-4.3,1.2v0h0l-4.3-1.2
-			l-0.3-3.3H9l0.2,1.7l2.3,0.6l2.4-0.6l0.3-2.7H6.8L6.2,6.7h10.6L16.6,8.8z"/>
-	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
 </g>
 </svg>
