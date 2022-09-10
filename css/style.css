@@ -1,14 +1,89 @@
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    list-style: square;
-    font-family: 'UbuntuLight';
+    list-style: none;
+    font-family: 'UbuntuMedium', sans-serif;
+    color: #cbc7c8;
 }
-@font-face{
+.profile_image {
+    width: 100px;
+}
+.resume {
+    width: 800px;
+    margin: 25px auto;
+    display: flex;
+}
+.left {
+    background: #595858;
+    width: 350px;
+    padding: 0 20px;
+}
+.left .img_holder {
+    text-align: center;
+    padding: 20px 0;
+}
+.left .img_holder img {
+    width: 200px;
+    border-radius: 30px;
+}
+.personal {
+    padding-bottom: 20px;
+}
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    padding-bottom: 10px;
+    position: relative;
+    text-align: right;
+    margin-bottom: 15px;
+}
+.title:before {
+    content: "";
+    position: absolute;
+    top: 35px;
+    right: 0;
+    width: 50px;
+    height: 3px;
+}
+.left .icon {
+    font-size: 20px;
+}
+.left .text {
+    font-size: 15px;
+}
+.contact .li_wrap {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.contact .li_wrap .icon {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+
+}
+.contact .li_wrap .text {
+    width: calc(100% - 50px);
+    word-break: break-word;
+}
+.right {
+    width: calc(100% - 250px);
+}
+@font-face {
     font-family: 'UbuntuLight';
     src: url('../fonts/Ubuntu-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'UbuntuMedium';
+    src: url('../fonts/Ubuntu-Medium.ttf') format('truetype');
 }
 
 
