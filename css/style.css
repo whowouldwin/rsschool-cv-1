@@ -11,7 +11,7 @@
     width: 100px;
 }
 .resume {
-    width: 800px;
+    width: 1050px;
     margin: 25px auto;
     display: flex;
 }
@@ -106,7 +106,7 @@
     background: #595858;
     padding: 15px 30px;
     color: #ffffff;
-    height: 250px;
+    height: 230px;
 }
 .header .name {
     font-size: 35px;
@@ -120,6 +120,28 @@
     font-size: 15px;
     font-family: "UbuntuRegular";
     font-weight: bold;
+}
+.right_inner .education{
+    margin-top: 30px;
+}
+.right_inner .li_wrap{
+    display: flex;
+    margin-bottom: 15px;
+}
+.right_inner .li_wrap .date{
+    width: 125px;
+    color: #000000;
+}
+.right_inner .li_wrap .info{
+    width: calc(100% - 125px);
+    padding-left: 25px;
+    position: relative;
+}
+.right_inner .li_wrap .info_title{
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #00d5fb;
 }
 @font-face {
     font-family: 'UbuntuRegular';
