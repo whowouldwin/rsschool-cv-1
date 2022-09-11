@@ -92,15 +92,38 @@
     justify-content: center;
 }
 .skills img,
-.other img{
+.other img {
     height: 60px;
+}
+.skills .li_wrap .text,
+.other .li_wrap .text {
+    margin-top: 5px;
 }
 .right {
     width: calc(100% - 250px);
 }
+.header {
+    background: #595858;
+    padding: 15px 30px;
+    color: #ffffff;
+    height: 250px;
+}
+.header .name {
+    font-size: 35px;
+}
+.header .role {
+    font-size: 20px;
+}
+.header .about {
+    margin-top: 20px;
+    line-height: 20px;
+    font-size: 15px;
+    font-family: "UbuntuRegular";
+    font-weight: bold;
+}
 @font-face {
-    font-family: 'UbuntuLight';
-    src: url('../fonts/Ubuntu-Light.ttf') format('truetype');
+    font-family: 'UbuntuRegular';
+    src: url('../fonts/Ubuntu-Regular.ttf') format('truetype');
 }
 @font-face {
     font-family: 'UbuntuMedium';
